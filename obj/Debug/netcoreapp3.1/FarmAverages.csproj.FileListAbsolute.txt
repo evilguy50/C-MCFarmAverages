@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\HelloWorld\bin\Debug\netcoreapp3.1\FarmAverages.exe
+C:\Users\Owner\source\repos\HelloWorld\bin\Debug\netcoreapp3.1\FarmAverages.deps.json
+C:\Users\Owner\source\repos\HelloWorld\bin\Debug\netcoreapp3.1\FarmAverages.runtimeconfig.json
+C:\Users\Owner\source\repos\HelloWorld\bin\Debug\netcoreapp3.1\FarmAverages.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\HelloWorld\bin\Debug\netcoreapp3.1\FarmAverages.dll
+C:\Users\Owner\source\repos\HelloWorld\bin\Debug\netcoreapp3.1\FarmAverages.pdb
+C:\Users\Owner\source\repos\HelloWorld\obj\Debug\netcoreapp3.1\FarmAverages.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\HelloWorld\obj\Debug\netcoreapp3.1\FarmAverages.AssemblyInfo.cs
+C:\Users\Owner\source\repos\HelloWorld\obj\Debug\netcoreapp3.1\FarmAverages.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\HelloWorld\obj\Debug\netcoreapp3.1\FarmAverages.dll
+C:\Users\Owner\source\repos\HelloWorld\obj\Debug\netcoreapp3.1\FarmAverages.pdb
+C:\Users\Owner\source\repos\HelloWorld\obj\Debug\netcoreapp3.1\FarmAverages.genruntimeconfig.cache
+C:\Users\Owner\source\repos\HelloWorld\obj\Debug\netcoreapp3.1\FarmAverages.csprojAssemblyReference.cache
